@@ -1,13 +1,15 @@
-﻿varchar Name;varchar Maiden_Name;varchar Birth_Date;varchar Death_Date;varchar Occupation;Boolean IsNoble();varchar Plot;decimal(8, 6) Latitude;decimal(9, 6) Longitude;;varchar Current_Address;;varchar Likely_Address_Lead;;;
+﻿varchar Name;varchar Maiden_Name;varchar Birth_Date;varchar Death_Date;varchar Occupation;Boolean IsNoble();varchar Plot;decimal(8,6) latitude;decimal(9, 6) longitude;;varchar Current_Address;;varchar Likely_Address_Lead;;;
 Catharina Edlen;von Vogel;12.11.1777;19.1.1857;;FALSE;;;;;;;;;;
 Franz Edtmeyer;N/A;16.11.1793;1859;bürgl. Handelsmann, Stephansplatz 628;;;48.2090519;16.3721644;;1, Jasomirgottstrasse 2 (Konskriptionsnummer 628, Teil), Stephansplatz 8A;;https://www.geschichtewiki.wien.gv.at/Jasomirgottstra%C3%9Fe_2#tab=null;;;
-Dr. Karl Reichel;N/A;;29.9.1861;Gymnasium Lehrer, deutsche Sprache und Literatur, Klassische Sprachen und Literatur, course descriptions: https://anno.onb.ac.at/cgi-content/anno-plus?aid=jag&datum=18600004&query=(text:%22Dr.+Karl+Reichel%22)&ref=anno-search&seite=28;;;;;;Beethovenplatz 1 (last workplace);;;Death date lead: https://anno.onb.ac.at/cgi-content/anno?aid=mop&datum=18611001&query=%22Dr.+Karl+Reichel%22&ref=anno-search&seite=2;Occupation lead: https://anno.onb.ac.at/cgi-content/anno?aid=sza&datum=18550821&query=%22Dr.+Karl+Reichel%22&ref=anno-search&seite=1;https://anno.onb.ac.at/cgi-content/anno?aid=zwa&datum=18610930&query=%22Dr.+Karl+Reichel%22&ref=anno-search&seite=3
+Dr. Karl Reichel;N/A;3.09.1827, Karlsruhe;29.9.1861;Gymnasium Lehrer, deutsche Sprache und Literatur, Klassische Sprachen und Literatur, course descriptions: https://anno.onb.ac.at/cgi-content/anno-plus?aid=jag&datum=18600004&query=(text:%22Dr.+Karl+Reichel%22)&ref=anno-search&seite=28;;;;;;"Beethovenplatz 1 (last workplace),  	
+
+Bürgergasse 15 (Tummelplatz) , Graz (earlier workplace)";;;Death date lead: https://anno.onb.ac.at/cgi-content/anno?aid=mop&datum=18611001&query=%22Dr.+Karl+Reichel%22&ref=anno-search&seite=2, birthdate: https://anno.onb.ac.at/cgi-content/anno-plus?aid=jag&datum=1862&page=17&size=45&qid=07CJ3CGI8U0BEBO4F1SG20QC08G5RW;Occupation lead: https://anno.onb.ac.at/cgi-content/anno?aid=sza&datum=18550821&query=%22Dr.+Karl+Reichel%22&ref=anno-search&seite=1 Graz: https://anno.onb.ac.at/cgi-content/anno?aid=sza&datum=18531011&query=%22Karl+Reichel%22&ref=anno-search&seite=1;https://anno.onb.ac.at/cgi-content/anno?aid=zwa&datum=18610930&query=%22Dr.+Karl+Reichel%22&ref=anno-search&seite=3
 Josef Stadler;N/A;1796;1859;Musiker;;;;;;;;;;;
 Jacob Klier;N/A;13.8.1790;1863;Adjunkt der k.k. Staats-Schulen Direktion, Secretür der k.k. Gartenbau Gesellschaft;;;;;;;;;;Article about work in Garten Society: https://anno.onb.ac.at/cgi-content/anno-plus?aid=alf&datum=18630004&query=(text:%22Jacob+Klier%22)&ref=anno-search&seite=530;
 Anton Krause;N/A;;;Obergärtner, aus Böhmen, ;;;;;;1, Jasomirgottstraße 4,;;https://www.geschichtewiki.wien.gv.at/Zum_goldenen_Stern;;Gasthof zum goldenen Stern: https://anno.onb.ac.at/cgi-content/anno?aid=cur&datum=18630702&query=%22Anton+Krause%22&ref=anno-search&seite=5;
 Karoline Freün von Hauser;Freün von Störck;25.3.1790;10.6.1870;;TRUE;;;;;;;;;;
 Francisca Calafati;von Salerno;29.8.1791;20.9.1859;;;;;;;;;;;;
-Francisca Weiss;Fleischhacker;22.3.1760;27.1.1855;Ehe: Jakob Weiss;;;;;;;;;;Some accident: https://anno.onb.ac.at/cgi-content/anno?aid=vtl&datum=18850824&query=%22Francisca+Weiss%22&ref=anno-search&seite=4;
+Francisca Weiss;Fleischhacker;22.3.1760;27.1.1855;Ehe: Jakob Weiss;;;;;;;;;;;
 Herr Jakob Weiss;N/A;9.1791;12.7.1874;;;;;;;;;;;;
 Ernestine Marus;;;;;;84-6;;;;;;;;;
 Carl Khym;N/A;3.3.1773;17.5.1859;k.k. Rathaus u. jub. Univ. Cameral-Zahlmeister;;;;;;;;;;;
@@ -42,3 +44,5 @@ Franciska Millosich;;;09.06.1864;Direktors-Gattin, Millergasse 39;;;;;;;;;;;
 Theresia Plössl;;1787;18.06.1859;Hausinhaberin in der Leopoldstadt Nr. 697 (Leopoldstadt 348);;;;;;;;;;;
 Anna Gottlieb;;1774;1856;"Sängerin und Schauspielerin, Erste Darstellerin der ""Pamina""";;;;;;;;;;;
 Johann Konrad Rosenthal;;1769;9.12.1843;Gartenkünstler, Erdbergstraße 29 (Besitz von Rasumofsky).;;;;;;;;https://www.geschichtewiki.wien.gv.at/Konrad_Johann_Rosenthal#tab=Bestattung;;;
+Ludwig de Traux;;;;;;;;;;;;;;;
+Marie de Traux;;;;;;;;;;;;;;;
